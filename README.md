@@ -8,13 +8,13 @@ miniPaint operates directly in the browser. You can create images, paste from cl
 or upload from computer (using menu or drag & drop). Nothing will be sent to any server. Everything stays in your browser. 
 
 ## URL:
-**https://viliusle.github.io/miniPaint/**
+**https://github.com/Hrishi-Raj/MiniPaint**
 
 ## Preview:
 ![miniPaint](https://raw.githubusercontent.com/viliusle/miniPaint/master/images/preview.gif)
 (generated using miniPaint)
 
-**Change log:** [/miniPaint/releases](https://github.com/viliusle/miniPaint/releases)
+**Change log:** [/miniPaint/releases](https://github.com/Hrishi-Raj/MiniPaint/releases)
 
 ## Browser Support
 - Chrome
@@ -37,13 +37,13 @@ or upload from computer (using menu or drag & drop). Nothing will be sent to any
 ## Embed
 To embed this app in other page, use this HTML code:
 
-    <iframe style="width:100%; height:1000px;" id="miniPaint" src="https://viliusle.github.io/miniPaint/"></iframe>
+    <iframe style="width:100%; height:1000px;" id="miniPaint" src="https://github.com/Hrishi-Raj/MiniPaint"></iframe>
 
 ## Build instructions
-See [Wiki > Build instructions](https://github.com/viliusle/miniPaint/wiki/Build-instructions)
+See [Wiki > Build instructions](https://github.com/Hrishi-Raj/MiniPaint/wiki/Build-instructions)
 
 ## Wiki
-See [Wiki](https://github.com/viliusle/miniPaint/wiki)
+See [Wiki](https://github.com/Hrishi-Raj/MiniPaint/wiki)
 
 ## License
 MIT License
