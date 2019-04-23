@@ -10,12 +10,6 @@ or upload from computer (using menu or drag & drop). Nothing will be sent to any
 ## URL:
 **https://github.com/Hrishi-Raj/MiniPaint**
 
-## Preview:
-![miniPaint](https://raw.githubusercontent.com/viliusle/miniPaint/master/images/preview.gif)
-(generated using miniPaint)
-
-**Change log:** [/miniPaint/releases](https://github.com/Hrishi-Raj/MiniPaint/releases)
-
 ## Browser Support
 - Chrome
 - Firefox
@@ -28,20 +22,9 @@ or upload from computer (using menu or drag & drop). Nothing will be sent to any
 
 - **Files**: open images, directories, URL, drag and drop, save (PNG, JPG, BMP, WEBP, animated GIF, JSON (layers data), print.
 - **Edit**: Undo, cut, copy, paste, selection, paste from clipboard.
+- **Share**: Serve this project on your system and let anyone connected to same network as yours see editing changes using client URL (yourIP:port/Minipaint/client.php).
 - **Image**: information, EXIF, trim, zoom, resize (Hermite resample, default resize), rotate, flip, color corrections (brightness, contrast, hue, saturation, luminance), auto adjust colors, grid, histogram, negative.
 - **Layers**: multiple layers system, differences, merge, flatten, Transparency support.
 - **Effects**: Black and White, Blur (box, Gaussian, stack, zoom), Bulge/Pinch, Denoise, Desaturate, Dither, Dot Screen, Edge, Emboss, Enrich, Gamma, Grains, GrayScale, Heatmap, JPG Compression, Mosaic, Oil, Sepia, Sharpen, Solarize, Tilt Shift, Vignette, Vibrance, Vintage, Blueprint, Night Vision, Pencil.
 - **Tools**: pencil, brush, magic wand, erase, fill, color picker, letters, crop, blur, sharpen, desaturate, clone, borders, sprites, key-points, color to alpha, color zoom, replace color, restore alpha, content fill.
 - **Help**: keyboard shortcuts, translations.
-
-## Embed
-To embed this app in other page, use this HTML code:
-
-    <iframe style="width:100%; height:1000px;" id="miniPaint" src="https://github.com/Hrishi-Raj/MiniPaint"></iframe>
-
-## Build instructions
-See [Wiki > Build instructions](https://github.com/Hrishi-Raj/MiniPaint/wiki/Build-instructions)
-
-## Wiki
-See [Wiki](https://github.com/Hrishi-Raj/MiniPaint/wiki)
-
