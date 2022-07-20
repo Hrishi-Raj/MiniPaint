@@ -42,7 +42,7 @@
     "hermite-resize": "git+https://github.com/viliusle/Hermite-resize.git",
     "html2canvas": "^1.0.0-alpha.12",
     "jquery": "^3.5.0",
-    "terser": "^3.14.1",
+    "terser": "^4.8.1",
     "webshot": "^0.18.0"
   }
 }
